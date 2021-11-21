@@ -49,7 +49,7 @@ mkdir -p  Config && cd Config
 
 
 ```
-wget -O Config.json  https://raw.githubusercontent.com/Tobyyyyt/nvjdc/main/Config.json
+wget -O Config.json  https://github.com/Tobyyyyt/nvjdcdocker/raw/main/Config/Config.json
 ```
 国内请使用
  ```
